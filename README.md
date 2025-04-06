@@ -1,4 +1,4 @@
-# Gello:
+# Gello
 
 Gello is a chatbot that integrates LangChain with Google Gemini API to process text, images, and PDFs, enabling interactive question-answering and multimodal conversations.
 
